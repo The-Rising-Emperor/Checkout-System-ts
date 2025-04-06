@@ -31,9 +31,9 @@ This is a repository which includes a TypeScript-based  flexible checkout system
 - Entry point: src\index.ts
 
 ## Pricing Rules Included
--Apple TV: Buy 3, pay for 2
--Super iPad: Bulk discount if 4 or more are purchased where the price will drop to $499.99 each
--Other items: Priced normally
+-Apple TV: Buy 3, pay for 2.
+-Super iPad: Bulk discount if 4 or more are purchased where the price will drop to $499.99 each.
+-Other items: Priced normally.
 
 ## Adding New Rules
 - Create a new class in src/rules/ implementing SpecialPricingRule.
